@@ -1,6 +1,6 @@
 MILA tokenizer is licensed by mila@cs.technion.ac.il. I do not own their tokenizer whatsoever.
 
-The run.py script is a simple (and very initial) wrapper calling it through python and creating a YAP compatible tokenized sentences output (one token per line, double linebreak between sentences).
+The run.py script is a simple (and very initial) wrapper for calling the tokenizer through python and creating a YAP compatible tokenized sentences output (one token per line, double linebreak between sentences).
 
 MILA README
 ===========
